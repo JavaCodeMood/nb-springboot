@@ -64,4 +64,9 @@ limitations under the License.
         </folder>
     </folder>
 
+                <file name="EditorKit.instance">
+                    <attr name="instanceClass" stringvalue="com.github.alexfalappa.nbspringboot.cfgeditor.syntax.CfgPropertiesKit"/>
+                    <attr name="instanceOf" stringvalue="javax.swing.text.EditorKit,com.github.alexfalappa.nbspringboot.cfgeditor.syntax.CfgPropertiesKit"/>
+                    <attr name="beaninfo" boolvalue="false"/>
+                </file>
 </filesystem>
